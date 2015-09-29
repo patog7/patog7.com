@@ -1,0 +1,832 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"s",
+				"skills"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"Blossom",
+				"Blossom_files"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"wind",
+				"windX"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"rot",
+				"rotate"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tree",
+				"treeAmount"
+			],
+			[
+				"tre",
+				"treeAmount"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"paper",
+				"paper-shadow"
+			],
+			[
+				"pap",
+				"paper-shadow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"dd",
+				"dd	Tag"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"if",
+				"if_declaration"
+			],
+			[
+				"repea",
+				"repeat_declaration"
+			],
+			[
+				"func",
+				"p_func_declaration_1"
+			],
+			[
+				"num",
+				"numVar"
+			],
+			[
+				"mem",
+				"memValues"
+			],
+			[
+				"varList",
+				"varListTxt"
+			],
+			[
+				"temp",
+				"temp_count"
+			],
+			[
+				"var",
+				"vardec"
+			],
+			[
+				"Opera",
+				"operands"
+			],
+			[
+				"ope",
+				"operands"
+			],
+			[
+				"varl",
+				"varList"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"mem_image",
+				"mem_image"
+			],
+			[
+				"expres",
+				"expression"
+			],
+			[
+				"sta",
+				"statement_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8702,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 7098,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "skill.html",
+			"settings":
+			{
+				"buffer_size": 412,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "skills.html",
+			"settings":
+			{
+				"buffer_size": 3208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "social.html",
+			"settings":
+			{
+				"buffer_size": 3302,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work.html",
+			"settings":
+			{
+				"buffer_size": 3916,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"package control po",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/portal/assets/css/inner.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.php",
+		"/Users/patogzz/Desktop/sync.svg",
+		"/Users/patogzz/Desktop/folder-lock.svg",
+		"/Users/patogzz/Desktop/domain.svg",
+		"/Users/patogzz/Desktop/map-marker.svg",
+		"/Users/patogzz/Desktop/calendar-clock.svg",
+		"/Users/patogzz/Desktop/crop-free.svg",
+		"/Users/patogzz/Desktop/Web/skills.html",
+		"/Users/patogzz/Desktop/flash.svg",
+		"/Users/patogzz/Desktop/Web/index2.html",
+		"/Users/patogzz/Desktop/Web/awards",
+		"/Users/patogzz/Desktop/Web/personal.html",
+		"/Users/patogzz/Google Drive/Personal/polymer/index.html",
+		"/Users/patogzz/Desktop/Web/style.css",
+		"/Users/patogzz/Documents/Web/material-design-lite/templates/blog/index.html",
+		"/Users/patogzz/Desktop/polymer-starter-kit-light-1.0.1/app/index.html",
+		"/Users/patogzz/Google Drive/Personal/polymer/style.css",
+		"/Users/patogzz/Google Drive/Personal/polymer/card.html",
+		"/Users/patogzz/Desktop/grass/index.html",
+		"/Users/patogzz/Desktop/Field/WebGL Field.html",
+		"/Users/patogzz/Desktop/Blossom/Blossom.html",
+		"/Users/patogzz/Desktop/Blossom/Blossom_files/Index.js",
+		"/Users/patogzz/Desktop/Blossom/Blossom_files/GLTexture.js",
+		"/Users/patogzz/Desktop/Grass.html",
+		"/Users/patogzz/Desktop/Grass_files/ThreeExtras.js",
+		"/Users/patogzz/Desktop/webvr-boilerplate-master/index.html",
+		"/Users/patogzz/Desktop/Grass Quads_files/Grass Quads.html",
+		"/Users/patogzz/Desktop/webvr-boilerplate-master/WebGL Field.html",
+		"/Users/patogzz/Desktop/WebGL Field.html",
+		"/Users/patogzz/Desktop/tdl-master/Gruntfile.js",
+		"/Users/patogzz/Desktop/SwiftyJSON-master/Example/SwiftyJSONTests.json",
+		"/Users/patogzz/Desktop/entremes/index.html",
+		"/Users/patogzz/Desktop/entremes/single.html",
+		"/Users/patogzz/Desktop/entremes/about.html",
+		"/Users/patogzz/Desktop/entremes/contact.html",
+		"/Users/patogzz/Desktop/web/contact.html",
+		"/Users/patogzz/Desktop/web/about.html",
+		"/Users/patogzz/Desktop/web/single.html",
+		"/Users/patogzz/Desktop/web/work.html",
+		"/Users/patogzz/Desktop/web/css/style.css",
+		"/Users/patogzz/Desktop/web/index.html",
+		"/Users/patogzz/Google Drive/Tec/9no Semestre/Compiladores/PrevUI/EXAMPLES",
+		"/Users/patogzz/Desktop/client_secret_513906017570-3kr7vd7819mrgrlv3pju0lh057cr9ekg.apps.googleusercontent.com.json",
+		"/Users/patogzz/Google Drive/hacker",
+		"/Users/patogzz/Dropbox/hackMty/demo.html",
+		"/Users/patogzz/Desktop/feedly.opml",
+		"/Users/patogzz/Dropbox/hackMty/css/style.css",
+		"/Users/patogzz/Dropbox/Rocket - HackMty/css/style.css",
+		"/Users/patogzz/Dropbox/Rocket - HackMty/js/hyperspace.js",
+		"/Users/patogzz/Dropbox/Rocket - HackMty/demo.html",
+		"/Users/patogzz/Desktop/www/cardboard/index.html",
+		"/Users/patogzz/Desktop/polymer/index.html",
+		"/Users/patogzz/Desktop/CambiarCheque.java",
+		"/Users/patogzz/Desktop/polymer/style.css",
+		"/Users/patogzz/Desktop/polymer/behance.js",
+		"/Users/patogzz/Desktop/polymer/card.html",
+		"/Users/patogzz/Desktop/constraint.jnlp",
+		"/Users/patogzz/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/patogzz/Desktop/polymer-tutorial-master/finished/index.html",
+		"/Users/patogzz/Desktop/polymer/components/paper-tabs/paper-tab.css",
+		"/Users/patogzz/Desktop/polymer/components/paper-tabs/paper-tabs.css",
+		"/Users/patogzz/Desktop/polymer/step-1/index.html",
+		"/Users/patogzz/Desktop/polymer/post-service/post-service.html",
+		"/Users/patogzz/Desktop/polymer-tutorial-master/css/style.css",
+		"/Users/patogzz/Desktop/polymer-tutorial-master/index.html",
+		"/Users/patogzz/Desktop/polymer-tutorial-master/dark/index.html",
+		"/Users/patogzz/Desktop/Polymer/index.html",
+		"/Users/patogzz/Desktop/templated-solarize/index.html",
+		"/Users/patogzz/Desktop/home.html",
+		"/Users/patogzz/Desktop/demo.html",
+		"/Users/patogzz/Desktop/collidableObjects.html",
+		"/Users/patogzz/Desktop/clickableObjects_twoMethods.html",
+		"/Users/patogzz/Google Drive/Tec/10mo Semestre/Interactimation/demoOrbiter.html",
+		"/Users/patogzz/Google Drive/Tec/10mo Semestre/Interactimation/clickableCube.html",
+		"/Users/patogzz/Desktop/myRoot/pato/demoOrbiter.html",
+		"/Users/patogzz/Desktop/myRoot/pato/Interactimations.ste",
+		"/Users/patogzz/Desktop/myRoot/pato/class1.html",
+		"/Users/patogzz/Google Drive/Tec/10mo Semestre/Interactimation/hw1.html",
+		"/Users/patogzz/Google Drive/Tec/9no Semestre/Compiladores/Proyecto/prevui_example.c",
+		"/Users/patogzz/Google Drive/Tec/9no Semestre/Compiladores/Proyecto/examples/prevui_comments.c",
+		"/Users/patogzz/Desktop/jjfumero-cminus-76c0a8106900/cminus_parser.py",
+		"/Users/patogzz/Desktop/jjfumero-cminus-76c0a8106900/prevui_tests.py",
+		"/Users/patogzz/Desktop/jjfumero-cminus-76c0a8106900/cminus_lexer.py",
+		"/Users/patogzz/Desktop/jjfumero-cminus-76c0a8106900/examples/comments.c",
+		"/Users/patogzz/Google Drive/Tec/9no Semestre/Compiladores/Proyecto/prevui.py",
+		"/Users/patogzz/Google Drive/Tec/9no Semestre/Compiladores/Proyecto/prevui_lexer.py",
+		"/Users/patogzz/Google Drive/Tec/9no Semestre/Compiladores/Proyecto/EXAMPLE.py",
+		"/Users/patogzz/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/patogzz/Google Drive/Tec/9no Semestre/Compiladores/Proyecto/calc.py",
+		"/Users/patogzz/Desktop/hello.py",
+		"/Users/patogzz/Google Drive/Personal/Polymer/polymer-tutorial-master/starter/post-list.html",
+		"/Users/patogzz/Google Drive/Personal/Polymer/polymer-tutorial-master/starter/post-card.html",
+		"/Users/patogzz/Google Drive/Personal/Polymer/polymer-tutorial-master/starter/index.html",
+		"/Users/patogzz/Google Drive/Personal/Polymer/polymer-tutorial-master/step-1/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gray",
+			"grey",
+			"search",
+			"icon",
+			"head",
+			"drawer",
+			"mdl-layout__cont",
+			"pato",
+			"skills",
+			"h1",
+			"padding",
+			".jpg",
+			"mdl-cell--4-col-desktop mdl-cell--4-col-tablet mdl-cell--4-col",
+			"grid",
+			"screen",
+			"small",
+			"trans",
+			"header",
+			"TITL",
+			"8",
+			"840",
+			"ripple",
+			"heig",
+			"height",
+			"200",
+			".demo-blog",
+			"24",
+			"200",
+			"min-",
+			".demo-blog",
+			"grey",
+			"coffee",
+			"block",
+			"bu",
+			"foo",
+			"dom",
+			"id",
+			"polymer",
+			"toolbar",
+			"manager",
+			"addmesh",
+			"viewConta",
+			"three",
+			"gl",
+			"add",
+			"setCount0",
+			"div",
+			"canvas",
+			"three",
+			"canvas",
+			"Blossom_files",
+			".js",
+			"body",
+			"jpg",
+			"geometry",
+			"scene",
+			"cubeArray",
+			"geometry",
+			"windX",
+			"wind",
+			"cubeArra",
+			"cube",
+			"sube",
+			"scene.add",
+			"cube",
+			"animate",
+			"line",
+			"cube.",
+			"posi",
+			"line",
+			"dube",
+			"cube",
+			"line",
+			"stats",
+			"createElement",
+			"mesh",
+			"addEve",
+			"dispose",
+			"light",
+			"addli",
+			"init",
+			"webGLre",
+			"webglRende",
+			"camera",
+			"container",
+			"init",
+			"animate",
+			"init",
+			"canvas",
+			"#1ab5b3",
+			"rgba",
+			"b-wrap",
+			"padding",
+			"creative",
+			"acr",
+			".png",
+			"100",
+			"formContainer_eachElement__main",
+			"roundElement",
+			"step",
+			"back",
+			"height",
+			"400",
+			"center",
+			"ide",
+			"formCon",
+			"step6",
+			"canvas",
+			"step5",
+			"#0000",
+			"#000",
+			"text",
+			"font",
+			"black",
+			"back",
+			"#15",
+			"#c",
+			"#",
+			".png",
+			"logo",
+			"rotation",
+			"rotate",
+			"rotati",
+			"fog",
+			"sky",
+			"scene",
+			"camera",
+			"add"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#97d88a"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3495,
+								3509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1389.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								975,
+								975
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "skill.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "skills.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "social.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "work.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "patog7.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
